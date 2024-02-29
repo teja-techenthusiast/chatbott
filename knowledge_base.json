@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "question": "hi",
+      "answer": "hello,how r u?"
+    },
+    {
+      "question": "hy",
+      "answer": "hello,how r u"
+    },
+    {
+      "question": "what u do",
+      "answer": "u should tell what u are doing"
+    }
+  ]
+}
