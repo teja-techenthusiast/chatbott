@@ -17,7 +17,7 @@ This project implements a simple chatbot using Python. The chatbot interacts wit
 
 ### Installation
 
-1. Clone the repository to your local machine:git clone https://github.com/eja-techenthusiast/chatbott.git
+1. Clone the repository to your local machine:git clone https://github.com/teja-techenthusiast/chatbott.git
 2. Navigate to the project directory:  cd chatbott
    
 
